@@ -1,0 +1,6 @@
+num1 = float(input('輸入數字num1:'))
+num2 = float(input('輸入數字num2:'))
+print("Sum:%.2f" %(num1 + num2))
+print("Difference:%.2f" %(num1 - num2))
+print("Product:%.2f" %(num1 * num2))
+print("Quotient%.2f" %(num1 / num2))
